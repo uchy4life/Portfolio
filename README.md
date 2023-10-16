@@ -26,7 +26,7 @@ links to requrired application. Detailed instruction for download and installati
 (https://www.anaconda.com/products/distribution)
 
 https://dev.mysql.com/downloads/mysql/
- Note you re required to choose the right package for your systems OS
+ Note you are required to choose the right package for your systems OS
 
 
 ## Authors
